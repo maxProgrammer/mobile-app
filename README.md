@@ -1,5 +1,5 @@
 # mobile-app
-Aplicação desenvolvida com o framework Django
+Aplicação WEB desenvolvida com o framework Django
 Link para aplicação [WEB App](https://github.com/maxProgrammer/mobile-app)
 
 [![Build Status](https://app.travis-ci.com/maxProgrammer/web-app.svg?branch=main)](https://app.travis-ci.com/maxProgrammer/web-app)
